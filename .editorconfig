@@ -1,0 +1,30 @@
+root = true
+
+[*]
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitace = true
+charset = utf-8
+
+[*.py]
+indent_style = space
+indent_size = 4
+
+[*.{js,ts,jsx,tsx,json}]
+indent_style = space
+indent_size = 2
+
+[*.go]
+indent_style = tab
+indent_size = 4
+
+[*.rs]
+indent_style = space
+indent_size = 4
+
+[*.{yml,yaml}]
+indent_style = space
+indent_size = 2
+
+[Makefile]
+indent_style = tab
