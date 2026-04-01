@@ -1,0 +1,4 @@
+PyYAML>=6.0
+rich>=13.0
+click>=8.0
+psutil>=5.9
