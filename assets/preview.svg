@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="350">
+ <rect width="500" height="350" fill="#2d2d2d" rx="8"/>
+ <rect x="0" y="0" width="500" height="35" fill="#404040" rx="8"/>
+ <circle cx="20" cy="17" r="6" fill="#ff5f56"/>
+ <circle cx="40" cy="17" r="6" fill="#ffbd2e"/>
+ <circle cx="60" cy="17" r="6" fill="#27c93f"/>
+ <text x="200" y="22" font-family="Arial" font-size="13" fill="#ccc" text-anchor="middle">solidworks-tool</text>
+ <text x="250" y="75" font-family="Arial" font-size="18" fill="#fff" text-anchor="middle" font-weight="bold">Solidworks </text>
+ <rect x="50" y="100" width="400" height="30" fill="#3a3a3a" rx="4"/>
+ <circle cx="75" cy="115" r="8" fill="#27c93f"/>
+ <text x="95" y="120" font-family="Consolas" font-size="13" fill="#ccc">Product detected: solidworks</text>
+ <rect x="50" y="140" width="400" height="30" fill="#3a3a3a" rx="4"/>
+ <circle cx="75" cy="155" r="8" fill="#27c93f"/>
+ <text x="95" y="160" font-family="Consolas" font-size="13" fill="#ccc">Backup created successfully</text>
+ <rect x="50" y="180" width="400" height="30" fill="#3a3a3a" rx="4"/>
+ <circle cx="75" cy="195" r="8" fill="#27c93f"/>
+ <text x="95" y="200" font-family="Consolas" font-size="13" fill="#ccc"> applied — complete</text>
+ <rect x="50" y="240" width="120" height="36" fill="#2196F3" rx="6"/>
+ <text x="110" y="264" font-family="Arial" font-size="14" fill="#fff" text-anchor="middle">Detect</text>
+ <rect x="190" y="240" width="120" height="36" fill="#4CAF50" rx="6"/>
+ <text x="250" y="264" font-family="Arial" font-size="14" fill="#fff" text-anchor="middle"></text>
+ <rect x="330" y="240" width="120" height="36" fill="#f44336" rx="6"/>
+ <text x="390" y="264" font-family="Arial" font-size="14" fill="#fff" text-anchor="middle">Rollback</text>
+ <rect x="50" y="295" width="400" height="6" fill="#3a3a3a" rx="3"/>
+ <rect x="50" y="295" width="400" height="6" fill="#4CAF50" rx="3"/>
+ <text x="250" y="325" font-family="Consolas" font-size="12" fill="#4CAF50" text-anchor="middle">Status: d successfully</text>
+</svg>
