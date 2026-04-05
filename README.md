@@ -4,7 +4,7 @@
 
 ![Platform](https://img.shields.io/badge/platform-cross--platform-lightgrey.svg)
 
-![tool](https://img.shields.io/badge/tool-MIT-green?style=flat-square) ![Version](https://img.shields.io/badge/Version-1.2.0-blue?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=flat-square) ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white) ![Stars](https://img.shields.io/github/stars/dmitry-wang-eng1900g6/solidworks-tool?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/dmitry-wang-eng1900g6/solidworks-tool?style=flat-square)
+![tool](https://img.shields.io/badge/tool-MIT-green?style=flat-square) ![Version](https://img.shields.io/badge/Version-1.2.1-blue?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=flat-square) ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white) ![Stars](https://img.shields.io/github/stars/dmitry-wang-eng1900g6/solidworks-tool?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/dmitry-wang-eng1900g6/solidworks-tool?style=flat-square)
 
 Solidworks — A project monitoring system resous, developed for a Rowan University software engineering course using Solidworks
 
